@@ -114,19 +114,19 @@ export const HeroSlider: React.FC = () => {
 
           {/* Right Image Composition (Col 5) */}
           <div className="lg:col-span-5 relative">
-            <div className="relative mx-auto w-full max-w-[420px] lg:max-w-none aspect-[4/4.5] sm:aspect-[4/3] lg:aspect-[4/5] rounded-3xl overflow-hidden shadow-2xl border border-white/10 bg-ges-navy-900 group">
+            <div className="relative mx-auto w-full max-w-[460px] lg:max-w-none aspect-[16/11] sm:aspect-[16/10] lg:aspect-[4/5] rounded-3xl overflow-hidden shadow-2xl border border-white/15 bg-ges-navy-900 group">
               <Image
                 key={activeTheme.image}
                 src={activeTheme.image}
                 alt={activeTheme.title}
                 fill
-                sizes="(max-width: 1024px) 90vw, 450px"
-                className="object-contain object-bottom transition-all duration-700 p-4 lg:p-6"
+                sizes="(max-width: 1024px) 90vw, 550px"
+                className="object-cover transition-all duration-700 group-hover:scale-105"
                 priority
               />
 
               {/* Architectural Frame overlay */}
-              <div className="absolute inset-0 bg-gradient-to-t from-ges-navy-950/80 via-transparent to-transparent pointer-events-none" />
+              <div className="absolute inset-0 bg-gradient-to-t from-ges-navy-950/85 via-ges-navy-950/20 to-transparent pointer-events-none" />
 
               {/* Floating Theme Card on Image */}
               <div className="absolute bottom-4 left-4 right-4 bg-ges-navy-900/90 backdrop-blur-md p-4 rounded-2xl border border-white/10">

@@ -97,7 +97,7 @@ export const GES_DATA = {
       title: "Quest for Excellence",
       subtitle: "A World of Possibilities in Quality Education",
       description: "Delivering world-class K-12 British and early childhood education rooted in academic rigor, innovative pedagogy, and holistic student empowerment.",
-      image: "/assets/img/banner/ch-1.png",
+      image: "/assets/img/hero/hero-quest-excellence.jpg",
       ctaLabel: "Explore Our Schools",
       ctaLink: "/schools"
     },
@@ -106,7 +106,7 @@ export const GES_DATA = {
       title: "Meeting Request",
       subtitle: "Direct Access to GES Educational Leadership",
       description: "Schedule an executive consultation with the Global Education Services administration to discuss school admissions, partnerships, and educational collaboration.",
-      image: "/assets/img/banner/ch-2.png",
+      image: "/assets/img/hero/hero-executive-meeting.jpg",
       ctaLabel: "Request an Appointment",
       ctaLink: "/contact?type=meeting"
     },
@@ -115,7 +115,7 @@ export const GES_DATA = {
       title: "Inside GES Community",
       subtitle: "A Nurturing Environment Where Every Child Thrives",
       description: "Explore our vibrant school life, student ceremonies, artistic showcases, sports achievements, and family partnerships across the Sultanate of Oman.",
-      image: "/assets/img/banner/ch-3.png",
+      image: "/assets/img/hero/hero-vibrant-community.jpg",
       ctaLabel: "Discover Our Stories",
       ctaLink: "/news"
     },
@@ -124,7 +124,7 @@ export const GES_DATA = {
       title: "24-Hour Effective Support",
       subtitle: "Continuous Operational & Academic Backing",
       description: "Providing continuous operational, technological, and curriculum support to ensure every campus in our network operates at peak international standards.",
-      image: "/assets/img/banner/ch-4.png",
+      image: "/assets/img/hero/hero-effective-support.jpg",
       ctaLabel: "Contact Support Team",
       ctaLink: "/contact"
     }
