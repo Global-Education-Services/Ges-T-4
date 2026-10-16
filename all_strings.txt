@@ -1,0 +1,811 @@
+setState(...): takes an object of state variables to update or a function which returns an object of state variables.
+---
+Objects are not valid as a React child (found:
+---
+). If you meant to render a collection of children, use an array instead.
+---
+act(...) is not supported in production builds of React.
+---
+React.Children.only expected to receive a single React element child.
+---
+React.cloneElement(...): The argument must be a React element, but you passed
+---
+forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+---
+for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+---
+children dangerouslySetInnerHTML defaultValue defaultChecked innerHTML suppressContentEditableWarning suppressHydrationWarning style
+---
+allowFullScreen async autoFocus autoPlay controls default defer disabled disablePictureInPicture disableRemotePlayback formNoValidate hidden loop noModule noValidate open playsInline readOnly required reversed scoped seamless itemScope
+---
+accent-height alignment-baseline arabic-form baseline-shift cap-height clip-path clip-rule color-interpolation color-interpolation-filters color-profile color-rendering dominant-baseline enable-background fill-opacity fill-rule flood-color flood-opacity font-family font-size font-size-adjust font-stretch font-style font-variant font-weight glyph-name glyph-orientation-horizontal glyph-orientation-vertical horiz-adv-x horiz-origin-x image-rendering letter-spacing lighting-color marker-end marker-mid marker-start overline-position overline-thickness paint-order panose-1 pointer-events rendering-intent shape-rendering stop-color stop-opacity strikethrough-position strikethrough-thickness stroke-dasharray stroke-dashoffset stroke-linecap stroke-linejoin stroke-miterlimit stroke-opacity stroke-width text-anchor text-decoration text-rendering underline-position underline-thickness unicode-bidi unicode-range units-per-em v-alphabetic v-hanging v-ideographic v-mathematical vector-effect vert-adv-y vert-origin-x vert-origin-y word-spacing writing-mode xmlns:xlink x-height
+---
+xlink:actuate xlink:arcrole xlink:role xlink:show xlink:title xlink:type
+---
+mousedown mouseup touchcancel touchend touchstart auxclick dblclick pointercancel pointerdown pointerup dragend dragstart drop compositionend compositionstart keydown keypress keyup input textInput copy cut paste click change contextmenu reset submit
+---
+abort auxClick cancel canPlay canPlayThrough click close contextMenu copy cut drag dragEnd dragEnter dragExit dragLeave dragOver dragStart drop durationChange emptied encrypted ended error gotPointerCapture input invalid keyDown keyPress keyUp load loadedData loadedMetadata loadStart lostPointerCapture mouseDown mouseMove mouseOut mouseOver mouseUp paste pause play playing pointerCancel pointerDown pointerMove pointerOut pointerOver pointerUp progress rateChange reset resize seeked seeking stalled submit suspend timeUpdate touchCancel touchEnd touchStart volumeChange scroll toggle touchMove waiting wheel
+---
+change click focusin focusout input keydown keyup selectionchange
+---
+focusout contextmenu dragend focusin keydown keyup mousedown mouseup selectionchange
+---
+compositionend focusout keydown keypress keyup mousedown
+---
+compositionstart focusout keydown keypress keyup mousedown
+---
+compositionupdate focusout keydown keypress keyup mousedown
+---
+abort canplay canplaythrough durationchange emptied encrypted ended error loadeddata loadedmetadata loadstart pause play playing progress ratechange resize seeked seeking stalled suspend timeupdate volumechange waiting
+---
+cancel close invalid load scroll toggle
+---
+suppressContentEditableWarning
+---
+react-mount-point-unstable
+---
+18.3.1-next-f1338f8080-20240426
+---
+No window.location.(origin|href) available to create URL for href:
+---
+A history only accepts one active listener
+---
+" is not valid. An absolute child route path
+---
+must start with the combined path of all its parent routes.
+---
+Index routes must not have child routes. Please remove
+---
+all child routes from route path "
+---
+" will be treated as if it were
+---
+" because the `*` character must
+---
+always follow a `/` in the pattern. To get rid of this warning,
+---
+please change the route path to "
+---
+" could not be decoded because it is is a malformed URL segment. This is probably due to a bad percent
+---
+' character in a manually specified
+---
+].  Please separate it out to the
+---
+` field. Alternatively you may provide the full path as
+---
+a string in <Link to="..."> and the router will parse it for you.
+---
+Unexpected Application Error!
+---
+React Router caught the following error during render
+---
+Failed to save submission to localStorage
+---
+preloader js-preloader flex-center
+---
+url(/assets/img/loading.gif)
+---
+accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture
+---
+/assets/downloads/GES Corporate Broucher.pdf
+---
+GES Corporate Brochure (PDF)
+---
+/assets/downloads/awards.pdf
+---
+Empowering Minds Through Excellence - Awards & Impact (PDF)
+---
+GES Achieving Success - Curriculum & Pedagogy Brief
+---
+. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern GES®'s relationship with you in relation to this website.
+---
+If you disagree with any part of these terms and conditions, please do not use our website.
+---
+The term 'GES®' or 'us' or 'we' refer to GES®, its affiliates, subsidiaries, and network schools around the world. The term 'you' refers to the user or viewer of our website. The use of this website is subject to the following terms of use:
+---
+The content of the pages of this website is for your general information and use only. It is subject to change without notice.
+---
+Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose.
+---
+Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable.
+---
+This website contains material which is owned by or licensed to us, including design, layout, look, appearance and graphics.
+---
+Access to and use of this website is subject to all applicable laws and regulations of the Sultanate of Oman.
+---
+This Privacy Policy discloses the privacy practices for https://www.ges.om, the main Global Education Services Company (GES®) website. By using this website, you are consenting to our collection and use of information in accordance with this Privacy Policy.
+---
+What information do we gather about you?
+---
+We and our third-party vendors collect certain information regarding your use of www.ges.om, such as your IP address and browser type. Your session and the pages you visit on www.ges.om will be tracked, but you will remain anonymous.
+---
+What do we use your information for?
+---
+We use the information we gather from you for systems administration purposes, abuse prevention, to track user trends, and to fulfill contact and meeting requests.
+---
+This site has reasonable security measures in place to help protect against the loss, misuse, and alteration of the information under our control.
+---
+The effective date of this policy is January 1st, 2025.
+---
+Our website uses cookies. A cookie is a small file of letters and numbers that we put on your computer if you agree. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+---
+The cookies we use are analytical tools that allow us to collect anonymous information about how you use our website and the pages you viewed. They also help us provide you with a good experience when you browse our website and allow us to improve the site.
+---
+Some cookies are necessary for the operation of our website, so if you choose to block them, some aspects of the site may not work for you.
+---
+If you want to delete or disable cookies, you can visit
+---
+GES is a global education management organization that manages schools in both the private and public sectors around the world. We offer a number of management options including complete management, license agreements, public-private partnerships, and charter school agreements.
+---
+GES aims to expand and establish a network of schools, nurseries and training institutes both in Oman and outside. Schools signing a complete management agreement with GES benefit from a wide range of educational products and services designed for Pre-K/K-12 schools.
+---
+/assets/img/about/sis-logo.jpg
+---
+Al Shomoukh International Private School
+---
+Hay Al Hail, Al Jadeed Al Hail South, Muscat – Oman
+---
+Al Shomoukh International Private School (SIPS) is one of Oman’s top educational schools, renowned for delivering exceptional academic excellence through the National English Curriculum (British) for K-12 students. Established in 2015 alongside a bilingual stream for students seeking a diverse academic pathway, SIPS offers a world-class learning environment that welcomes students from diverse cultural and national backgrounds, fostering inclusivity and global citizenship.
+---
+/assets/img/about/snlogo.jpg
+---
+Shomoukh ECE Al Qurum Campus
+---
+Al Saruj St., Shatti Al Qurum, Muscat - Oman
+---
+Shomoukh Early Childhood Education Center at Al Qurum Campus is one of Oman’s leading early childhood education centers, providing exceptional care in a purpose-built environment designed for children aged one to four. With a wide range of programs and a curriculum inspired by the Reggio Emilia Approach, the center fosters creativity, critical thinking, and holistic development.
+---
+/assets/img/about/sis-nur-logo.jpg
+---
+Shomoukh ECE Al Mouj Campus
+---
+The Shomoukh for Early Childhood Education at Al Mouj Campus is a high-class early childhood education center of excellence, setting the benchmark for preschools across the MENA region. Renowned for its award-winning sustainable initiatives and innovative educational programs, it provides a world-class learning environment tailored to foster creativity, growth, and holistic development.
+---
+Global Education Services Company
+---
+Global Education Services L.L.C.
+---
+GES Quality Education Logo
+---
+${k}/assets/img/banner/ges-logo.png
+---
+Leading private education group in the Sultanate of Oman, delivering world-class K-12 premium schools, preschools, and early learning centers since 2012.
+---
+Honorable Sheikh Salim Hamood Al Hashmi
+---
+British National Curriculum
+---
+School Operations & Management
+---
+Public-Private Partnerships (PPP)
+---
+Cognia Global Accreditation
+---
+Al Shomoukh International Private School (SIPS)
+---
+Shomoukh for Early Childhood Education (Al Qurum & Al Mouj)
+---
+${k}/news?q={search_term_string}
+---
+required name=search_term_string
+---
+GES Quality Education | Leading Private Education Group in Oman
+---
+Global Education Services Company (GES Quality Education) is a premier private education group in Oman, delivering world-class K-12 schools, preschools, and early learning centers.
+---
+${k}/assets/img/project-1.jpg
+---
+What is Global Education Services Company (GES)?
+---
+Global Education Services Company (GES Quality Education) is a premier private education group founded in 2012 by the Al Hashmi family in the Sultanate of Oman, operating world-class K-12 schools, preschools, and early learning centers.
+---
+Which schools and educational centers are operated by GES in Oman?
+---
+GES operates Al Shomoukh International Private School (SIPS) in Hay Al Hail, Shomoukh for Early Childhood Education Al Qurum Campus in Shatti Al Qurum, and Shomoukh for Early Childhood Education Al Mouj Campus in Muscat.
+---
+What are the core operational models of GES Quality Education?
+---
+GES operates across four primary pillars: Private Schools, Public-Private Partnerships (PPP), Licensed Schools, and Master Franchising.
+---
+How can I contact GES Quality Education in Muscat?
+---
+You can contact GES by telephone at +968 24554422, email at info@ges.om, or visit the headquarters at Airport Heights, P.O. Box 1756, Postal Code 111, Muscat, Sultanate of Oman.
+---
+Ceremony Class of 2024 SIPS
+---
+Graduation ceremony celebrating the Class of 2024 at Al Shomoukh International Private School (SIPS).
+---
+${k}/assets/img/video-thumb-1.jpg
+---
+Shomoukh Early Childhood Education Ceremony
+---
+Annual childhood education ceremony at Shomoukh Early Childhood Education Center.
+---
+${k}/assets/img/video-thumb-2.jpg
+---
+Highlights from Sports Day 2024 at Al Shomoukh International Private School (SIPS).
+---
+${k}/assets/img/video-thumb-3.jpg
+---
+About GES Quality Education | Leadership, Vision & Campuses
+---
+Established in 2012 by the Al Hashmi family, GES Quality Education is Oman’s premier private education group, committed to academic excellence, innovation, and Oman Vision 2040.
+---
+Who founded GES Quality Education and what is its vision?
+---
+GES Quality Education is the lifelong dream of the Al Hashmi family, founded in 2012 under the leadership of Honorable Sheikh Salim Hamood Al Hashmi. Its vision is to empower innovative leaders equipped with knowledge, skills, and values to thrive globally.
+---
+What is the ELEVATE framework at GES?
+---
+The ELEVATE framework represents GES commitment to Education: Excellence, Leadership, Equity, Vision, Adaptability, Technology, and Empowerment.
+---
+Who are the members of the executive leadership at GES?
+---
+The leadership team includes Honorable Sheikh Salim Hamood Al Hashmi (Chairman), Sheikha Janat Salim Hamood Al Hashmi (CEO), Sheikha Jinan Salim Hamood Al Hashmi (Managing Director), Sheikh Julanda Salim Hamood Al Hashmi (Vice President), Ms. Sarah Saeed (Head of Academics), Mr. Shanmuganand Hariharan (Director of Finance & Accounts), and Ms. Randa Al Ahmadieh (Head of Administration).
+---
+${k}/assets/img/chirman.png
+---
+${k}/assets/img/members/Sarah.jpg
+---
+Sheikha Jinan Salim Hamood Al Hashmi
+---
+${k}/assets/img/members/jinan.jpg
+---
+Sheikha Janat Salim Hamood Al Hashmi
+---
+${k}/assets/img/members/Jannat.jpg
+---
+Sheikh Julanda Salim Hamood Al Hashmi
+---
+${k}/assets/img/members/julanda.jpg
+---
+Mr. Shanmuganand Hariharan
+---
+Director of Finance & Accounts
+---
+${k}/assets/img/members/Heri.jpg
+---
+${k}/assets/img/members/Randa.jpg
+---
+Our Operational Models | Private Schools, PPP & Franchising | GES
+---
+Explore GES Quality Education operational models: Private Schools, Public-Private Partnerships (PPP), Licensed Schools, and Master Franchise models across Oman.
+---
+${k}/assets/img/operational/s-1.jpg
+---
+What are the four operational pillars of GES?
+---
+The four operational pillars are: 1) Private Schools (comprehensive campus management), 2) Public-Private Partnerships (PPP collaboration aligned with national goals), 3) Licensed Schools (curriculum and operational framework licensing), and 4) Master Franchise (regional MENA expansion).
+---
+Does GES offer complete school management services?
+---
+Yes, GES provides end-to-end management spanning academic leadership, curriculum deployment, human resources, facilities management, financial planning, and institutional marketing.
+---
+Our Schools & Campuses | SIPS & Shomoukh ECE | GES Oman
+---
+Discover Al Shomoukh International Private School (SIPS) and Shomoukh Early Childhood Education campuses in Al Qurum and Al Mouj, Muscat, Oman.
+---
+${k}/assets/img/about/s1.jpg
+---
+What curriculum is taught at Al Shomoukh International Private School (SIPS)?
+---
+Al Shomoukh International Private School offers the British National English Curriculum alongside a bilingual stream for K-12 students, established in 2015.
+---
+What age groups are served at Shomoukh Early Childhood Education Centers?
+---
+Shomoukh Early Childhood Education Centers serve children aged one to four years, featuring programs inspired by the Reggio Emilia Approach.
+---
+Where are the GES campuses located in Muscat?
+---
+SIPS is located in Hay Al Hail South; Shomoukh ECE Al Qurum is located on Al Saruj Street in Shatti Al Qurum; and Shomoukh ECE Al Mouj is located in Al Mouj, Muscat.
+---
+${k}/assets/img/about/sis-logo.jpg
+---
+Renowned for delivering exceptional academic excellence through the National English Curriculum (British) for K-12 students. Established in 2015 alongside a bilingual stream.
+---
+Hay Al Hail, Al Jadeed Al Hail South
+---
+${k}/schools#shomoukh-qurum
+---
+Shomoukh for Early Childhood Education Al Qurum Campus
+---
+${k}/assets/img/about/c1.jpg
+---
+${k}/assets/img/about/sis-nur-logo.jpg
+---
+Early childhood education center providing exceptional care in a purpose-built environment designed for children aged one to four, inspired by the Reggio Emilia Approach.
+---
+Al Saruj St., Shatti Al Qurum
+---
+${k}/schools#shomoukh-mouj
+---
+Shomoukh for Early Childhood Education Al Mouj Campus
+---
+${k}/assets/img/about/m1.jpg
+---
+High-class early childhood education center setting the benchmark across the MENA region with award-winning sustainable initiatives and innovative programs.
+---
+Partner With Us | Educational Investment & Partnerships | GES Oman
+---
+Partner with Global Education Services Company (GES). Discover complete school management, licensing, PPP, and franchise opportunities in Oman and internationally.
+---
+${k}/assets/img/partners/partner-bg.jpg
+---
+Which accreditation bodies recognize GES schools?
+---
+GES institutions hold Cognia Global Accreditation, ECIS membership, and work under the regulatory supervision of Oman Ministry of Education and Ministry of Social Development.
+---
+How can investors or institutions partner with GES?
+---
+Organizations can partner through school management agreements, PPP educational infrastructure investments, curriculum licensing, or master franchising by contacting info@ges.om.
+---
+Careers at GES Network | Teaching & Academic Leadership | Oman
+---
+Build your career with GES Quality Education Network. We recruit top educational and administrative talent globally with structured continuous professional development.
+---
+${k}/assets/img/careers/step-1.png
+---
+Our Impact & In The News | Media Coverage & Updates | GES Oman
+---
+Read the latest updates, international accreditation news, partnership milestones, and press coverage from GES Quality Education.
+---
+${k}/assets/img/news/news-1.png
+---
+Partnership Agreement Signed
+---
+${k}/assets/img/news/19.jpg
+---
+اعتراف منظمة كوجنيا الأمريكية بـ GES
+---
+Alam Al-Iktisaad Awards 2022
+---
+${k}/assets/img/news/20.jpg
+---
+Education Partnership Agreement Signed
+---
+NCSI receives students from Al Shomoukh International School
+---
+${k}/assets/img/news/13.jpg
+---
+Al Shomoukh International School holds a lecture on ethics, manners
+---
+${k}/assets/img/news/15.jpg
+---
+The National Museum of Oman - School Visit
+---
+${k}/assets/img/news/8.jpg
+---
+Contact Us | Global Education Services Company Muscat, Oman
+---
+Contact GES Quality Education in Muscat, Oman. Inquire about school admissions, partnership opportunities, meeting requests, or general support.
+---
+${k}/assets/img/contact.svg
+---
+What are the office hours for GES Quality Education in Muscat?
+---
+GES administrative offices are open Sunday through Thursday from 7:30 AM to 3:30 PM (closed on Friday and Saturday).
+---
+How can I schedule a meeting with GES administration?
+---
+You can submit an online Meeting Request specifying your preferred date and time range directly through the GES website Contact portal, or call +968 24554422.
+---
+Global Education Services Company (GES)
+---
+script[data-seo="dynamic-jsonld"]
+---
+/news?q=${encodeURIComponent(g.trim())}
+---
+/assets/img/banner/ges-logo-internal.png
+---
+/assets/img/banner/ges-logo.png
+---
+navbar navbar-expand-lg navbar-light fixed-top ${c?"navbar-shrink":""}
+---
+background-color 0.4s ease, height 0.4s ease
+---
+GES Quality Education Home
+---
+sub-menu ${f?"oppenned":""}
+---
+Please provide a valid email address.
+---
+row aos-item aos-init aos-animate
+---
+col-lg-4 col-md-4 col-sm-12
+---
+Download Latest Newsletter
+---
+Subscribe to our Newsletters
+---
+form-group mx-sm-3 mb-2 col-sm-10
+---
+Email address for newsletter subscription
+---
+✓ Thank you for subscribing to our newsletter!
+---
+col-12 d-flex justify-content-between no-margin no-padding f-social
+---
+Close cookie policy notification
+---
+We use cookies to help give you the best experience on our website. By continuing without changing your cookie settings, we assume you agree to this. Please read
+---
+All Copyrights @ Copyrights 2025 Reserved to GES Quality Education
+---
+/assets/img/video-thumb-1.jpg
+---
+Ceremony Class of 2024
+SIPS
+---
+/assets/img/video-thumb-2.jpg
+---
+Shomoukh Early Childhood Education
+Ceremony
+---
+/assets/img/video-thumb-3.jpg
+---
+/assets/img/video-thumb-4.jpg
+---
+The 48th Oman National Day Celebration 2018
+---
+/assets/img/video-thumb-7.jpg
+---
+/assets/img/video-thumb-6.jpg
+---
+To empower a generation of innovative leaders equipped with the knowledge, skills, and values to thrive in a globalized world and contribute to the advancement of society.
+---
+To provide exceptional education that inspires curiosity, fosters lifelong learning, and prepares students to achieve their full potential and make a positive impact on the world.
+---
+ELEVATE Framework – Our Commitment to Education (Excellence): Striving for the highest academic and ethical standards. (Leadership): Empowering students to take initiative and inspire change. (Equity): Ensuring inclusive, personalized learning for all. (Vision): Driving innovation and future-focused education. (Adaptability): Embracing change and continuous growth. (Technology): Utilizing advanced tools for effective learning. (Empowerment): Cultivating responsible, globally minded individuals.
+---
+We lead in educational innovation by offering world-class curricula and forging partnerships with top institutions. Our focus is on creating a dynamic learning environment where students can explore their talents, pursue excellence, and contribute to the future of knowledge and society.
+---
+container-fluid no-margin no-padding
+---
+Go to slide 1: Quest for Excellence
+---
+Go to slide 2: Meeting Request
+---
+Go to slide 3: Inside GES Community
+---
+Go to slide 4: 24Hour Effective Support
+---
+/assets/img/banner/ch-1.png
+---
+Quest for Excellence - GES Quality Education
+---
+/assets/img/banner/ch-2.png
+---
+Request a Meeting with GES Administration
+---
+/assets/img/banner/ch-3.png
+---
+Inside GES Quality Education Community
+---
+/assets/img/banner/ch-4.png
+---
+24-Hour Effective Educational Support
+---
+Empowering Minds Through Execellence, Innovation and Knowledge
+---
+about aos-item aos-init aos-animate
+---
+About GES Quality Education
+---
+Global Education Services Company “GES” Quality Education
+---
+is a leading private education group in the Sultanate of Oman, dedicated to delivering world-class K-12 premium schools, preschools, and early learning centers. Since our founding in 2012, GES has been committed to nurturing young minds and empowering them with the knowledge, skills, and values needed to thrive in an ever-changing world.
+---
+As a homegrown Omani brand, GES is the lifelong dream of the Al Hashmi family, who envisioned a transformative educational journey for the children of Oman. Our mission is to provide quality education that inspires innovation, fosters leadership, and cultivates a lifelong love for learning.
+---
+blob-icon aos-item aos-init aos-animate
+---
+4 Premium Campuses and Schools
+---
+grade aos-item aos-init aos-animate
+---
+aos-item aos-init aos-animate
+---
+Honorable Sheikh Salim Hamood Al Hashmi - Chairman
+---
+We believe that every child, when given the right opportunities and access to quality education, can learn, achieve, and make a meaningful difference in their lives and the world around them. Every child is unique, and with the right guidance, support, and encouragement, they can unlock their full potential and become agents of positive change.
+---
+This belief drives us to provide our students with a safe, supportive, and positive school environment that understands and addresses their individual needs. By incorporating diverse teaching methods and learning styles, we ensure that every student is given the opportunity to succeed and thrive.
+---
+Education is a collaborative effort. When schools, families, and communities work together, students become more successful, aware of their surroundings, and equipped to contribute to the growth and well-being of their communities. This is why we actively encourage parental involvement in their children’s education and seize every opportunity to engage with the broader community.
+---
+Our mission is to instill in students the importance of receiving a high-quality education and to nurture them into lifelong learners who are curious, adaptable, and driven to continuously learn and grow. We aim to prepare them not only to thrive in an ever-changing world but also to lead with confidence, empathy, and innovation.
+---
+Honorable Shiehk Salim Hamood Al Hashmi
+---
+fa fa-long-arrow-${u?"up":"down"}
+---
+carousel__control carousel__control--forward right
+---
+carousel__control carousel__control--backward left
+---
+carousel__item carousel__item--mobile-in-1 carousel__item--tablet-in-2 carousel__item--desktop-in-3
+---
+Watch story: ${H.title.replace(
+---
+url(${H.thumb}) center center / cover no-repeat
+---
+/assets/img/members/Sarah.jpg
+---
+/assets/img/members/jinan.jpg
+---
+/assets/img/members/Jannat.jpg
+---
+/assets/img/members/julanda.jpg
+---
+/assets/img/members/Heri.jpg
+---
+/assets/img/members/Randa.jpg
+---
+A definitive statement of excellence in quality education
+---
+/assets/img/banners/about.svg
+---
+ABOUT GES QUALITY EDUCATION
+---
+Global Education Services L.L.C. (GES Quality Education) was established as Oman’s premier private education group, recognized internationally for its commitment to technology, knowledge, and innovation. Leveraging Oman’s stability, GES attracts, develops, and retains top talent from the region and beyond.
+---
+Over the years, GES has built a team of experienced experts specializing in opening new schools, revitalizing struggling institutions, and enhancing existing ones. Guided by long-term investment strategies and sustainable education policies, GES is committed to supporting Oman’s Vision 2040 and global educational goals.
+---
+As GES celebrates 13 years of excellence in 2025, it remains dedicated to fostering productive learning environments, ensuring equitable resource allocation, and delivering effective leadership to meet the needs of all learners.
+---
+chairman chairman-internal aos-item aos-init aos-animate
+---
+members aos-item aos-init aos-animate
+---
+row justify-content-center
+---
+col-lg-3 col-md-4 col-sm-6
+---
+img-fluid profile-pic mb-4 mt-3
+---
+reopen aos-item aos-init aos-animate
+---
+GES Quality Education Campus Doors
+---
+WE ARE ALWAYS OPEN TO LEARNERS
+---
+GES Quality Education is a leading private education group, established in 2012 by visionary Omani entrepreneurs. With a focus on technology, innovation, and knowledge, GES delivers world-class education across K-12 schools, preschools, and early learning centers, contributing to Oman’s Vision 2040 and global educational excellence.
+---
+col-lg-4 col-md-4 col-sm-12 project
+---
+Al Shomoukh International Private School Campus
+---
+Shomoukh Early Childhood Education Al Qurum Campus
+---
+Shomoukh Early Childhood Education Al Mouj Campus
+---
+/assets/img/operational/o-1.png
+---
+/assets/img/operational/o-pub.svg
+---
+Fully aligned curriculum with country standards
+---
+/assets/img/operational/o-2.png
+---
+Advanced software systems to enhance operational efficiency
+---
+/assets/img/operational/o-6.png
+---
+Ongoing academic quality control through computerized monitoring
+---
+/assets/img/operational/o-3.png
+---
+Concept-focused, well-researched educational materials
+---
+/assets/img/operational/o-4.png
+---
+Recruitment and professional development for educators
+---
+/assets/img/operational/o-5.png
+---
+/assets/img/operational/o-pub2.svg
+---
+Cutting-edge research and development methods designed to optimize results
+---
+/assets/img/operational/o-7.png
+---
+Extensive business management and support services
+---
+/assets/img/operational/o-8.png
+---
+Participation in annual regional events for administrators
+---
+/assets/img/operational/o-9.png
+---
+Regular visits from experienced teams of education and business professionals
+---
+/assets/img/operational/o-10.png
+---
+Networking opportunities with other GES Network schools
+---
+/assets/img/operational/s-1.jpg
+---
+GES operates premium-quality Pre-K/K-12 schools and training institutes, designed to meet and exceed international academic standards. With a focus on excellence, these institutions undergo rigorous internal and external quality assurance reviews to maintain a globally competitive edge. GES fosters a student-centered approach that prioritizes innovation, high expectations, and holistic development, ensuring each school meets the highest benchmarks in education.
+---
+/assets/img/operational/s-2.jpg
+---
+PUBLIC-PRIVATE PARTNERSHIPS (PPP)
+---
+As a leader in public-private partnerships, GES leverages Oman’s newly adopted PPP framework to create impactful opportunities for educational investment and development. These initiatives drive national economic diversification, promote innovation in education, and support the delivery of high-quality learning experiences aligned with global standards.
+---
+/assets/img/operational/s-3.jpg
+---
+The GES licensing program enables schools to integrate its proven operational model and intellectual property within their unique management structure. This partnership ensures schools benefit from GES’s expertise while retaining their distinct identity, fostering innovation and excellence in education delivery.
+---
+/assets/img/operational/s-4.jpg
+---
+GES offers exclusive master franchise opportunities, granting partners the authority to manage all franchising activities within a specified territory or country. This model ensures consistent quality, operational excellence, and the strategic expansion of the GES brand while empowering franchisees to lead in their respective regions.
+---
+/assets/img/banners/operational.svg
+---
+Global Education Services Company Schools signing a complete management agreement with GES® benefit from a wide range of educational products and services designed for Pre-K/K-12 schools.
+---
+opertional-sec aos-item aos-init aos-animate container text-center
+---
+/assets/img/operational/banner.jpg
+---
+Complete Educational Management Banner
+---
+Schools signing a complete management agreement with Global Education Services (GES®) gain access to a comprehensive suite of educational products and services tailored for Pre-K/K-12 schools.
+---
+container o-modules aos-item aos-init aos-animate
+---
+row col-12 no-padding no-margin
+---
+${u.title} - GES Operational Model
+---
+Al Shomoukh International Private School (SIPS) is one of Oman’s top educational schools, renowned for delivering exceptional academic excellence through the National English Curriculum (British) for K-12 students. Established in 2015 alongside a bilingual stream for students seeking a diverse academic pathway, SIPS offers a world-class learning environment that welcomes students from diverse cultural and national backgrounds, fostering inclusivity and global citizenship.
+
+With a strong reputation for academic excellence across Oman, SIPS has consistently achieved outstanding outcomes, earning its place among the leading private schools in the country.
+---
+Shomoukh Early Childhood Education Center at Al Qurum Campus is one of Oman’s leading early childhood education centers, providing exceptional care in a purpose-built environment designed for children aged one to four. With a wide range of programs and a curriculum inspired by the Reggio Emilia Approach, the center fosters creativity, critical thinking, and holistic development.
+
+Our highly qualified educators and state-of-the-art facilities ensure children are nurtured, engaged, and well-prepared for future learning. Trusted by families across Oman, Shomoukh ECE is a second home for children, offering a safe and inspiring space to thrive.
+---
+The Shomoukh for Early Childhood Education at Al Mouj Campus is a high-class early childhood education center of excellence, setting the benchmark for preschools across the MENA region. Renowned for its award-winning sustainable initiatives and innovative educational programs, it provides a world-class learning environment tailored to foster creativity, growth, and holistic development.
+
+Serving a diverse student body, the center is committed to preparing young learners for a bright future through its cutting-edge curriculum and dedication to excellence. Families trust Al Shomoukh Nursery for its unmatched standards, making it a leader in early childhood education across the region.
+---
+/assets/img/banners/schools.svg
+---
+row align-items-center mb-4
+---
+col-lg-5 col-md-6 mb-4 mb-md-0
+---
+col-lg-7 col-md-6 text-left
+---
+${g.name} - Facility view ${j+1}
+---
+Enlarged Campus Facility View
+---
+/assets/img/partners/p-1.jpg
+---
+/assets/img/partners/p-2.jpg
+---
+/assets/img/partners/p-3.jpg
+---
+Ministry of Social Development
+---
+/assets/img/partners/p-4.jpg
+---
+/assets/img/partners/p-5.jpg
+---
+/assets/img/banners/partner.svg
+---
+patner-se aos-item aos-init aos-animate
+---
+container-fluid partner-video
+---
+/assets/img/partners/partner-bg.jpg
+---
+Partner With GES Quality Education
+---
+GES is an educational management organization that manages schools and learning centers in both the private and public sectors. We offer a number of management options including complete management, license agreements, public-private partnerships, and franchise.
+---
+If you are interested in bringing a GES operational model in your area, please contact us at
+---
+partners text-center aos-item aos-init aos-animate
+---
+partners-logos row justify-content-center
+---
+Al Shomoukh International Private School Logo
+---
+Al Shomoukh Early Childhood Education Center Logo
+---
+partners-logos row justify-content-center align-items-center
+---
+container text-center aos-item aos-init aos-animate
+---
+GES have the experience needed in different markets to develop and operate educational institutions. Our experienced and trained team will always be available for training and support as well as liaison with our international links to make sure that the highest standards are being utilized.
+---
+You Complete the Online Application
+---
+/assets/img/careers/step-1.png
+---
+/assets/img/careers/step-2.png
+---
+We assess your application for job fit
+---
+/assets/img/careers/step-3.png
+---
+We contact you for preliminary interview
+---
+/assets/img/careers/step-4.png
+---
+We contact you for a second interview
+---
+/assets/img/careers/step-5.png
+---
+Job Offer Made to the successful candidate
+---
+/assets/img/careers/step-6.png
+---
+/assets/img/banners/careers.svg
+---
+GES is an internationally accredited education management organization, ensuring compliance with global best practices in quality assurance and continuous advancement. We manage schools, offering complete management, licensing agreements, public-private partnerships, and charter school agreements.
+---
+A high-caliber academic and administrative team is key to our success. GES recruits top professionals globally and provides continuous professional development to maintain the highest standards. A structured appraisal system ensures accountability, mentoring, and performance-based career growth.
+---
+Through strategic leadership and internationally recognized best practices, GES empowers institutions to deliver world-class education and shape the future of learning.
+---
+careers ps-timeline-sec text-center
+---
+/assets/img/news/news-1.png
+---
+Global Stamp of Approval for GES
+---
+Arab Child Conferences & Curriculum Development
+---
+Parntnership Agreement Signed in Oman
+---
+مدرسة الشموخ تحتفل بتخريج الدفعة الأولى من طلابها
+---
+منى آل سعيد ترعى حفل تدشين مدرسة الشموح العالمية
+---
+Quality Assurance in Education.
+---
+Changes in learning materials, teacher expectations, and student deliverables
+---
+/assets/img/news/banner.png
+---
+intro-news-filter d-flex justify-content-center mb-5
+---
+Please fill in all required fields (Name, Email, and Message).
+---
+/assets/img/banners/contact.svg
+---
+container aos-item aos-init aos-animate
+---
+col-lg-12 col-md-12 col-sm-12 col-xs-12 location margin-auto
+---
+col-sm-8 margin-auto text-center
+---
+Postal Office Box: 1756, Airport Heights, Postal Code: 111
+---
+d-flex justify-content-center flex-wrap
+---
+dialing d-flex align-items-center
+---
+mailing d-flex align-items-center
+---
+row social-location col-12 justify-content-center mb-4
+---
+d-flex justify-content-center
+---
+row no-padding no-margin justify-content-center
+---
+col-lg-8 col-md-10 col-sm-12
+---
+✓ Submission Successfully Received!
+---
+Thank you, your inquiry has been recorded and routed to the GES Administration team.
+---
+custom-select form-control
+---
+Your message or details...
